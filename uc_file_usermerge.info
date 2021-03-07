@@ -1,0 +1,7 @@
+name = Ubercart Files User Merge
+description = Merges Ubercart purchased download files for two user accounts.
+dependencies[] = uc_file
+dependencies[] = usermerge
+package = Ubercart - extra
+backdrop = 1.x
+type = module
